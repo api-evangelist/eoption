@@ -1,0 +1,47 @@
+{
+    "name": "eOption",
+    "description": "<p>eOption takes pride in supporting investors and their efforts buying and selling options. Our goal is to provide an intuitive, convenient service that allows for users to maximize their experience with stocks, options and many other investment products. How you ask? By offering some of the lowest fees for online brokers allowing investors to keep more capital.<span style=\"white-space: pre;\"> <\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28331-www-eoption-com.jpg",
+    "tags": [
+        "api not found",
+        "financial services",
+        "have api",
+        "marketplaces",
+        "trading"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/eoption\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "eOption",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28331-www-eoption-com.jpg",
+            "humanURL": "http:\/\/www.eoption.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/eoption-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "support@eoption.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/eOption"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.eoption.com"
+        }
+    ]
+}
